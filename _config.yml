@@ -1,6 +1,6 @@
 name: Photography by Kaipo Kiaha
 favicon: null
-layout_spectrum: 0.03800682839937508
+layout_spectrum: 0.33411
 typography_spectrum: 0.18406373751349747
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
   brandStrength: 0.4592496978584677
-  lightness: 0.2158931775484234
-  saturation: 0.467051487416029
+  lightness: 1
+  saturation: 0.5
   rhythmicContrast: 0.8089065041858703
 purpose: []
